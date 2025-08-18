@@ -47,4 +47,4 @@ The internship introduced me to **cybersecurity, networking, and cloud security*
 
 ---
 
-> ⚡ *This internship was a valuable step in strengthening my foundation in cybersecurity and networking, and I look forward to applying these skills in future projects and roles.*
+> ⚡ *This internship was a valuable step in strengthening my foundation in cybersecurity and networking, and I look forward to applying these skills in future projects and roles.Use the second.pkt file the first one is the actual part of network but it is too long to process*
